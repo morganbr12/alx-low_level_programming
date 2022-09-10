@@ -4,6 +4,7 @@
  * no use of printf
  */
 int main(void)
+/* new to c programming. printing something out */
 {
 	/* new to c programming. printing something out */
 	char outPut[] = "\"Programming is like building a multilingual puzzle";
