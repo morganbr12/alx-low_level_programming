@@ -10,8 +10,10 @@ int main(void)
 {
 	char lowercase_alphabet;
 
-	for (lowercase_alphabet = 'a'; lowercase_alphabet <= 'z'; ++lowercase_alphabet)
+	for (lowercase_alphabet = 'a'; lowercase_alphabet <= 'z';
+	++lowercase_alphabet)
 		putchar(lowercase_alphabet);
+	putchar('\n');
 
 	return (0);
 }
