@@ -1,10 +1,10 @@
 #include "main.h"
-/*
- * main - prints Holberton, followed by a new line
+
+/**
+ * main -  prints Holberton, followed by a new line
  *
- * description - this program is to print out _putchar
+ * Return: Always 0 (Success)
  *
- * return - Always 0 (success)
  */
 
 int main(void)
