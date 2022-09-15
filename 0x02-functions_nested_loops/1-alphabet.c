@@ -1,7 +1,8 @@
 #include "main.h"
 /*
- * printing_alphabet - a code to print all alphabet in small letters
+ * print_alphabet - a code to print all alphabet in small letters
  *
+ * description - print_alphabet
  */
 
 void print_alphabet(void)
