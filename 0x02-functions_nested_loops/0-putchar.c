@@ -2,7 +2,7 @@
 /*
  * main - This is the where the program starts to execute
  *
- * discrption - this program is to print out _putchar
+ * description - this program is to print out _putchar
  *
  * return - Always 0 (success)
  */
