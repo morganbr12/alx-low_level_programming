@@ -1,6 +1,6 @@
 #include "main.h"
 /*
- * main - This is the where the program starts to execute
+ * main - prints Holberton, followed by a new line
  *
  * description - this program is to print out _putchar
  *
