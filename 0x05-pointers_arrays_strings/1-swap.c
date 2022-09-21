@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
+ * swap_int - swaps the values of two integers
  *
- * swap_int - swaps the value of two integers
- *
- * @n: pointer to first value
+ * @a: pointer to first value
  *
  * @b: pointer to second value
  */
