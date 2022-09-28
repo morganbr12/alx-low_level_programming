@@ -1,1 +1,1 @@
-now learning how to code in c programming language and getting myself familiar with it.
+ReadMe for the last 0x07-pointers_arrays
